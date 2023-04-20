@@ -42,8 +42,8 @@ if read_the_docs_build:
 # -- Project information -----------------------------------------------------
 
 project = 'CatCutifier'
-copyright = '2019, Simon Brand'
-author = 'Simon Brand'
+copyright = '2023, Sergei Andreev'
+author = 'Sergei Andreev'
 
 
 # -- General configuration ---------------------------------------------------
