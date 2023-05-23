@@ -18,5 +18,5 @@ Docs
 .. doxygenstruct:: cat
    :members:
    
-.. doxygenstruct:: About
+.. doxygenclass:: About
    :members:
