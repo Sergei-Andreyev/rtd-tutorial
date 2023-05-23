@@ -15,9 +15,6 @@ Welcome to CatCutifier's documentation!
 Docs
 ====
 
-.. doxygenstruct:: cat
-   :members:
-   
 .. doxygenclass:: About
    :project: CatCutifier
    :members:
