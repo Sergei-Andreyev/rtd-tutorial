@@ -19,4 +19,5 @@ Docs
    :members:
    
 .. doxygenclass:: About
+   :project: CatCutifier
    :members:
