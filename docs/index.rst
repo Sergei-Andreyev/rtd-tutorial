@@ -17,3 +17,6 @@ Docs
 
 .. doxygenstruct:: cat
    :members:
+   
+.. doxygenstruct:: About
+   :members:
